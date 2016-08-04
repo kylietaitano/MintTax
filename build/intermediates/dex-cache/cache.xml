@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tlai1/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_5afc59716feb70ad825addb396660ddb90eacf0f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1ec0cf4e70db451e4c0269f2dd0a90e95b4fc056">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e6d0e8b814b21fe585695aa4556d5c1f97eaf81e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4ad40e20af5dbe11677b5fef9fbffe23da27b24a">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4521d4fc6cc201aea44537588190dda0400b34f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_ecc0404d6236038acebb3d0a0416a120d840cb55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_673edfeabdafbd883584068e1ff2e2162d604608/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_a3f59c249b5e81f54d91aaa00cbcf5111a9b23a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_e6e6eea3a984e2561537e90a9cbd75274f658738/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/tlai1/AndroidStudioProjects/MintKids/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_eb721366657a91de52fe6cf3a01e434c7f46ac9f/classes.dex" />
+    </item>
+
+</items>
